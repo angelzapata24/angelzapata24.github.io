@@ -1,0 +1,26 @@
+body {
+    background-image: url('/home/basecamp/Downloads/city.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+h1 {
+    color: black;
+    font-size: 34;
+    border-style: groove;
+    border-color: blue;
+    border-width: 5;
+    background: white;
+    margin: 0 auto 0 auto;
+    width: 250;
+}
+p {
+    color: black;
+    font-size: 24;
+    border-style: groove;
+    border-color: blue;
+    border-width: 5;
+    background: #f7f7f8;
+    margin: 0 auto 0 auto;
+    width: 500;
+}
