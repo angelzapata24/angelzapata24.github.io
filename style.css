@@ -1,8 +1,12 @@
 body {
-    background-image: url('/home/basecamp/Downloads/city.jpg');
-    background-size: 100%;
+    background-image: url('background_pic.jpg');
+    /* background-size: 100%;
     background-repeat: no-repeat;
-    background-position: fixed;
+    background-position: fixed; */
+    background-position: 50% 50%; /* image centered on screen */
+    background-position: 50%; /* this also centers on screen */
+    background-position: 100px 100px;
+    background-position: center;
 }
 h1 {
     color: black;
