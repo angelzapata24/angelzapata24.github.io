@@ -19,7 +19,8 @@ body {
     width: 250;
 } */
 
-.about-me {
+.about-me,
+.projects {
     color: #330000;
     font-size: 20;
     border-style: groove;
@@ -38,9 +39,10 @@ body {
     border-color: #3399cc;
     border-width: 10;
     background: #cdb99c;
-    margin-left: 20;
+    margin-left: 50;
     width: 40%;
-    margin-top: 20;
+    margin-top: 60;
+    margin-left: 120;
 }
 
 .plans-after {
@@ -49,9 +51,10 @@ body {
     border-color: #3399cc;
     border-width: 10;
     background: #cdb99c;
-    margin-left: 20;
+    margin-left: 50;
     width: 40%;
-    margin-top: 20;
+    margin-top: 40;
+    margin-left: 120;
 }
 
 h1 {
@@ -65,4 +68,9 @@ hr {
     height: 10px;
     color: #3399cc;
     background-color: #3399cc;
+}
+
+#graduation-pic {
+    margin-top: 70;
+    height: 62%;
 }
