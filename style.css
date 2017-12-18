@@ -74,3 +74,14 @@ hr {
     margin-top: 70;
     height: 62%;
 }
+
+.resume {
+    font-size: 24;
+}
+
+a:visited {
+    color: turquoise;
+}
+/* a:active {
+    color: turquoise;
+} */
