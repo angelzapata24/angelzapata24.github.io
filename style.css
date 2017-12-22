@@ -75,10 +75,21 @@ hr {
     height: 62%;
 }
 
-.resume {
-    font-size: 24;
+#my-work {
+    margin-top: 70;
+    height: 62%;
 }
 
+.resume {
+    font-size: 24;
+    color: turquoise;
+}
+a:hover {
+    color: turquoise;
+}
+a:link {
+    color: teal;
+}
 a:visited {
     color: turquoise;
 }
